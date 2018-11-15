@@ -16,7 +16,7 @@ show-avatar: true
 
 # If you are building a GitHub project page then use these settings:
 url: "https://shobhanashenoy.github.io/beautiful-jekyll/"
-baseurl: "/beautiful-jekyll"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
