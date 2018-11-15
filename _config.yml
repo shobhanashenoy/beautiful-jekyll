@@ -1,8 +1,9 @@
 ---
 layout: page
 title: This is my website
-use-site-title: false
+use-site-title: true
 social-share: true
+show-avatar: true
 ---
 # --- General options --- #
 
