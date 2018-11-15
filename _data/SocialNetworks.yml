@@ -1,5 +1,8 @@
 ---
+layout: page
+title: Social Networls
 ---
+
 # You can define your custom social network links here.
 # Use the same key you added in _config.yml -> social-network-links.
 # In addition to that you need to specify the following properties:
