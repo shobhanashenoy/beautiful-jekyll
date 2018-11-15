@@ -1,3 +1,8 @@
+---
+layout: page
+title: Social Networls
+---
+
 FROM jekyll/jekyll
 
 COPY Gemfile .
